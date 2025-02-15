@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Rym Touati 👋</h1>
 
-<p align="center">
-  <b>Software Engineer | Embedded Systems & Web Developer</b>  
-</p>
-
 ---
 
 ## 🕵️‍♂️ About 
