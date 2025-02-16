@@ -5,8 +5,9 @@
 </p>
 
 ## 🕵️‍♂️ À propos  
-- 🎓 Étudiante en **3ᵉ année de Génie Logiciel** à **Polytechnique Montréal**.
-- 🏆 2ᵉ place au **SDL Payload Challenge**, 1ʳᵉ place **fusée hybride/liquide SRAD** à la **Spaceport America Cup**.
+- Je parle couramment le français et l'anglais.
+- Étudiante en **3ᵉ année de Génie Logiciel** à **Polytechnique Montréal**.
+- 2ᵉ place au **SDL Payload Challenge**, 1ʳᵉ place **fusée hybride/liquide SRAD** à la **Spaceport America Cup**.
 
 <details>
   <summary>💼 <b>Expérience</b></summary>
