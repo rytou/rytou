@@ -5,8 +5,8 @@
 </p>
 
 ## 🕵️‍♂️ À propos  
-- Je parle couramment le français et l'anglais.
 - Étudiante en **3ᵉ année de Génie Logiciel** à **Polytechnique Montréal**.
+- Je parle couramment le français et l'anglais.
 
 <details>
   <summary>💼 <b>Expérience</b></summary>
