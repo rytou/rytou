@@ -54,17 +54,7 @@
 </details>
 
 <details>
-  <summary>⚡ <b>Language Stats</b></summary>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rytou/rytou/main/language-stats.png" alt="Statistiques des langages" width="80%">
-</p>
-
-</details>
-
-
-<details>
-  <summary>🎗🔥 <b>Mes contributions GitLab</b></summary>
+  <summary>🔥 <b>Mes contributions GitLab</b></summary>
 
 <p align="center">
   <a href="https://gitlab.com/rytou">
