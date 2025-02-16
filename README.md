@@ -54,20 +54,24 @@
 </details>
 
 <details>
-  <summary>⚡ <b>Technologies maîtrisées</b></summary>
+  <summary>⚡ <b>Language Stats</b></summary>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://raw.githubusercontent.com/rytou/rytou/main/language-stats.png" alt="Statistiques des langages" width="80%">
 </p>
 
 </details>
 
+
 <details>
-  <summary>🎗🔥 <b> Mes contributions GitLab </b></summary>
-## [![GitLab Profile](https://img.shields.io/badge/GitLab-View%20Profile-orange?logo=gitlab)](https://gitlab.com/rytou)
+  <summary>🎗🔥 <b>Mes contributions GitLab</b></summary>
+
+<p align="center">
+  <a href="https://gitlab.com/rytou">
+    <img src="https://img.shields.io/badge/GitLab-View%20Profile-orange?logo=gitlab&style=for-the-badge" alt="GitLab Profile">
+  </a>
+</p>
+
 </details>
 
 
