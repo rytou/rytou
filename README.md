@@ -37,8 +37,8 @@
 - **Robot autonome détecteur d’obstacles** 🤖  
 
 - **LUCINA, payload de fusée** 🚀  
-  - Évaluation du **changement d’indice de réfraction de lentilles polymères liquides en micro-gravité**.
-  - **Lancé à plus de 10 000 pieds** dans la fusée Atlas MKIII.
+  - Évaluation du changement d’indice de réfraction de lentilles polymères liquides en micro-gravité.
+  - Lancé à plus de 10 000 pieds dans la fusée Atlas MKIII.
 
 </details>
 
