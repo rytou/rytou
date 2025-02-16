@@ -1,15 +1,7 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rytou/rytou/main/banner.jpg" alt="Bannière Rym Touati" width="100%">
-</p>
-
 <h1 align="center">Salut, je suis Rym Touati 👋</h1>
 
 <p align="center">
   <b>Étudiante en 3ᵉ année de Génie Logiciel</b>  
-</p>
-
-<p align="center" style="font-size: 20px; color: #D63384; font-weight: bold;">
-  L'Ingénieure Logicielle Passionnée 🚀
 </p>
 
 ## 🕵️‍♂️ À propos  
