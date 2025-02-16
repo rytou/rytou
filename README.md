@@ -65,6 +65,10 @@
 
 </details>
 
+## 🔥 Mes contributions GitLab  
+[![GitLab Profile](https://img.shields.io/badge/GitLab-View%20Profile-orange?logo=gitlab)](https://gitlab.com/rytou)
+
+
 ## 👀 Nombre de visiteurs  
 <p align="center">
   <img src="https://profile-counter.glitch.me/rytou/count.svg" alt="Nombre de visiteurs"/>
