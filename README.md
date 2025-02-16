@@ -2,17 +2,23 @@
   <img src="https://raw.githubusercontent.com/rytou/rytou/main/banner.jpg" alt="Bannière Rym Touati" width="100%">
 </p>
 
-<h1 align="center">Salut, je suis Rym Touati 👋</h1>
+<h1 align="center"><span style="color:#D63384">Salut, je suis Rym Touati 👋</span></h1>
 
 <p align="center">
   <b>Étudiante en 3ᵉ année de Génie Logiciel</b>  
 </p>
 
+---
+
 ## 🕵️‍♂️ À propos 
 - 🎓 Étudiante en **3ᵉ année de Génie Logiciel** à **Polytechnique Montréal**.
 - 🏆 2ᵉ place au **SDL Payload Challenge**, 1ʳᵉ place **fusée hybride/liquide SRAD** à la **Spaceport America Cup**.
 
-## 💼 Expérience
+---
+
+<details>
+  <summary>💼 <b>Expérience</b></summary>
+
 - **Trésorière** chez **Oronos Polytechnique Montréal** (2024 - Présent) 📊  
   - Gestion des finances et des budgets de la société technique.  
 
@@ -33,11 +39,23 @@
   - Programmation d’un **robot autonome avec détection d’obstacles** (ATMega324PA, C++).
   - Intégration de pilotes bas-niveau avec **AVRLibC**.
 
-## 🎗️ Bénévolat
+</details>
+
+---
+
+<details>
+  <summary>🎗️ <b>Bénévolat</b></summary>
+
 - **Animatrice - Poly-FI** (2022 - 2023) 🎓  
   - Animation d’ateliers scientifiques dans les écoles primaires.
 
-## 🌐 Projets & Hackathons
+</details>
+
+---
+
+<details>
+  <summary>🌐 <b>Projets & Hackathons</b></summary>
+
 - **PolyHacks 2025 - Application Web IA** 🏆  
   - Développement d’une application web **intégrant une API IA** (**Angular, TypeScript**).
 
@@ -47,20 +65,34 @@
 - **Application de Chat avec NestJS & Socket.IO** 💬  
   - Développement d’un **système de chat en temps réel** (WebSockets, Angular).
 
-## ⚡ Technologies maîtrisées
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Altium](https://img.shields.io/badge/Altium%20Designer-222222?style=for-the-badge&logo=altiumdesigner&logoColor=white)
+</details>
+
+---
+
+<details>
+  <summary>⚡ <b>Technologies maîtrisées</b></summary>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Altium%20Designer-222222?style=for-the-badge&logo=altiumdesigner&logoColor=white">
+</p>
+
+</details>
+
+---
 
 ## 📊 Statistiques GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rytou&layout=compact&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rytou&theme=radical" width="48%" />
 </p>
+
+---
 
 ## 👀 Nombre de visiteurs
 <p align="center">
