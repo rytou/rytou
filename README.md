@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rym Touati 👋</h1>
 
 <p align="center">
-  <b>Software Engineer | Embedded Systems & Web Developer</b>  
+  <b>SWE Student</b>  
 </p>
 
 <img src="https://raw.githubusercontent.com/rytou/rytou/main/banner.png" alt="Rym Touati Banner" width="100%">
