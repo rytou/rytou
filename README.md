@@ -71,12 +71,6 @@
 
 </details>
 
-## 📊 Statistiques GitHub  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rytou&layout=compact&theme=radical&langs_count=6" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rytou&theme=radical" width="48%">
-</p>
-
 ## 👀 Nombre de visiteurs  
 <p align="center">
   <img src="https://profile-counter.glitch.me/rytou/count.svg" alt="Nombre de visiteurs"/>
