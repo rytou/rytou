@@ -33,15 +33,12 @@
 </details>
 
 <details>
-  <summary>🌐 <b>Projets & Hackathons</b></summary>
+  <summary>🌐 <b>Projets</b></summary>
 
 - **PolyHacks 2025 - Application Web IA** 🏆  
   - Développement d’une application web **intégrant une API IA** (**Angular, TypeScript**).
 
-- **Plateforme RPG en ligne** 🎮  
-  - Développement d’un **jeu RPG multi-joueur basé sur le web**.
-  - Stack : **Angular (front-end), Node.js (back-end), MongoDB (DB)**.
-  - Travail en équipe avec méthodologie **Agile**.
+- **[Plateforme RPG en ligne](http://polytechnique-montr-al.gitlab.io/log2990/20243/equipe-203/LOG2990-203/#/home)** 
 
 - **Robot autonome détecteur d’obstacles** 🤖  
   - Conception d’un **robot autonome en C++** capable de **cartographier son environnement**.
