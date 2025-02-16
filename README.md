@@ -17,10 +17,9 @@
 - **Membre actif du département avionique** chez **Oronos Polytechnique Montréal** (2023 - 2024) 🚀  
   - Conception d’un **DAQ multi-capteurs sur PCB** avec **Altium Designer**.
   - Développement de **logiciels embarqués pour le payload LUCINA** (STM32, capteurs IMU).
-  - Intégration de la communication **CAN bus** pour la télémétrie en temps réel.
 
 - **Membre actif du département payload - Spaceport America Cup** (2022 - 2023) 🌍  
-  - Participation au développement du **cubesat LUCINA** pour la fusée Atlas MKIII.
+  - Conception du **cubesat LUCINA** pour la fusée Atlas MKIII.
   - 2ᵉ place au **SDL Payload Challenge**.
 
 </details>
@@ -54,12 +53,6 @@
   - **2ᵉ place au SDL Payload Challenge**.
   - Évaluation du **changement d’indice de réfraction de lentilles polymères liquides en micro-gravité**.
   - **Lancé à plus de 10 000 pieds** dans la fusée Atlas MKIII.
-
-- **SmartyShowdown** 🎓  
-  - Conception d’une **application de quiz multi-plateforme** (**Flutter, Electron, Firebase**).
-
-- **Application de Chat avec NestJS & Socket.IO** 💬  
-  - Développement d’un **système de chat en temps réel** (WebSockets, Angular).
 
 </details>
 
