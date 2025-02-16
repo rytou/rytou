@@ -1,49 +1,68 @@
-<h1 align="center">Hi, I'm Rym Touati 👋</h1>
-
 <p align="center">
-  <b>SWE Student</b>  
+  <img src="https://raw.githubusercontent.com/rytou/rytou/main/banner.jpg" alt="Bannière Rym Touati" width="100%">
 </p>
 
-<img src="https://raw.githubusercontent.com/rytou/rytou/main/banner.png" alt="Rym Touati Banner" width="100%">
+<h1 align="center">Salut, je suis Rym Touati 👋</h1>
 
-## 🕵️‍♂️ About 
-- I am fluent in **English, French, and Arabic**.
-- I study at **Polytechnique Montréal** in **Computer Engineering** with a focus on **AI and Embedded Systems**.
-- I am passionate about **software architecture, embedded systems, and web development**.
+<p align="center">
+  <b>Étudiante en 3ᵉ année de Génie Logiciel</b>  
+</p>
 
-## 💼 Experience
-- **Software Developer** at **CAE** since **January 2025** ✈️  
-- **Embedded Systems Developer** at **Oronos Avionics, Polytechnique Montréal** since **2024** 🚀  
-- **PCB Designer & Avionics Engineer** at **Polytechnique Montréal - Oronos Avionics** (2023-2024) ⚡  
-- **Software Developer Intern** at **[Your Internship Experience, if any]** (2023) 💻  
-- **Teacher Assistant** at **Polytechnique Montréal** (2023) 🏫  
+## 🕵️‍♂️ À propos 
+- 🎓 Étudiante en **3ᵉ année de Génie Logiciel** à **Polytechnique Montréal**.
+- 🏆 2ᵉ place au **SDL Payload Challenge**, 1ʳᵉ place **fusée hybride/liquide SRAD** à la **Spaceport America Cup**.
 
-## 🌐 Deployed Websites
-- **[My Personal Web Portfolio](https://yourportfolio.com)**  
-- **[Oronos Avionics Dashboard](https://oronos-dashboard.com)**  
-- **[Data Visualization Project](https://beyondgpa.com)**  
-- **[Chat App using NestJS & Socket.IO](https://chat-app.com)**  
-- **[Web Application: SmartyShowdown](https://smartyshowdown.com)**  
+## 💼 Expérience
+- **Trésorière** chez **Oronos Polytechnique Montréal** (2024 - Présent) 📊  
+  - Gestion des finances et des budgets de la société technique.  
 
-## 📚 Coursework Catalog
-- **CSI2510** : Data Structures and Algorithms  
-- **INF1015** : Advanced Object Oriented Programming  
-- **INF2610** : Operating Systems  
-- **INF2705** : Computer Graphics  
-- **INF3405** : Computer Networks  
-- **INF3500** : Complex Digital Systems  
-- **INF3610** : Embedded Systems  
-- **LOG2440** : Web Development  
-- **SEG2505** : Fundamentals of Software Engineering  
-- **MTH2302D** : Probabilities and Statistics  
+- **Membre actif du département avionique** chez **Oronos Polytechnique Montréal** (2023 - 2024) 🚀  
+  - Conception d’un **DAQ multi-capteurs sur PCB** avec **Altium Designer**.
+  - Développement de **logiciels embarqués pour le payload LUCINA** (STM32, capteurs IMU).
+  - Intégration de la communication **CAN bus** pour la télémétrie en temps réel.
 
-## ⚡ Language Stats
+- **Membre actif du département payload - Spaceport America Cup** (2022 - 2023) 🌍  
+  - Participation au développement du **cubesat LUCINA** pour la fusée Atlas MKIII.
+  - 2ᵉ place au **SDL Payload Challenge**.
+
+- **Développeuse Full-Stack - Plateforme RPG en ligne** (2024) 🎮  
+  - Développement d’un **jeu RPG multi-joueurs** (MongoDB, Express, Angular, Node.js).
+  - Automatisation des tests avec **GitLab CI/CD**.
+
+- **Développeuse en Systèmes Embarqués** (2023) 🤖  
+  - Programmation d’un **robot autonome avec détection d’obstacles** (ATMega324PA, C++).
+  - Intégration de pilotes bas-niveau avec **AVRLibC**.
+
+## 🎗️ Bénévolat
+- **Animatrice - Poly-FI** (2022 - 2023) 🎓  
+  - Animation d’ateliers scientifiques dans les écoles primaires.
+
+## 🌐 Projets & Hackathons
+- **PolyHacks 2025 - Application Web IA** 🏆  
+  - Développement d’une application web **intégrant une API IA** (**Angular, TypeScript**).
+
+- **SmartyShowdown** 🎓  
+  - Conception d’une **application de quiz multi-plateforme** (**Flutter, Electron, Firebase**).
+
+- **Application de Chat avec NestJS & Socket.IO** 💬  
+  - Développement d’un **système de chat en temps réel** (WebSockets, Angular).
+
+## ⚡ Technologies maîtrisées
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Altium](https://img.shields.io/badge/Altium%20Designer-222222?style=for-the-badge&logo=altiumdesigner&logoColor=white)
+
+## 📊 Statistiques GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rytou&layout=compact&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rytou&theme=radical" width="48%" />
 </p>
 
-## 👀 Visitor Count
+## 👀 Nombre de visiteurs
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rytou&label=Visitors&color=blueviolet&style=flat-square" alt="Profile Visitor Count"/>
+  <img src="https://komarev.com/ghpvc/?username=rytou&label=Visiteurs&color=blueviolet&style=flat-square" alt="Nombre de visiteurs"/>
 </p>
