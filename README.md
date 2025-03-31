@@ -1,9 +1,5 @@
 <h1 align="center">Salut, je suis Rym Touati 👋</h1>
 
-<p align="center">
-  <b>Étudiante en 3ᵉ année de Génie Logiciel</b>  
-</p>
-
 ## 🕵️‍♂️ À propos  
 - Étudiante en **3ᵉ année de Génie Logiciel** à **Polytechnique Montréal**.
 - Je parle couramment le français et l'anglais.
